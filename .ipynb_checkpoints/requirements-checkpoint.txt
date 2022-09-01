@@ -1,8 +1,0 @@
-numpy
-torch
-torchvision
-tqdm
-loguru
-grad-cam
-timm
-tensorboardX
